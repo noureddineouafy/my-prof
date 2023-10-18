@@ -35,8 +35,8 @@ global.APIs = { // API Prefix
 }
 
 // Watermark
-global.nama = 'NANS OFFC' // nama owner
-global.nomor = '6285880029379' // nomor owner
+global.nama = 'Bang FD' // nama owner
+global.nomor = '628989513496' // nomor owner
 global.nans = 'NANS OFFC' // nama bot 
 global.thumb = 'https://i.ibb.co/m9YqsDr/neromdv3-2.jpg' // thumbnail bot ( foto menu )
 global.dygp = 'https://chat.whatsapp.com' // link group yang ada di menu
