@@ -95,7 +95,6 @@
         "openai": "^3.3.0",
         "aptoide-scraper": "^1.0.1",
         "yargs": "^17.6.0" 
-        "ytdl-core": "^4.11.5",
     },
     "optionalDependencies": {
          "wa-sticker-formatter": "^4.3.2",
