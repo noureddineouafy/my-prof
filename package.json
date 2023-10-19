@@ -93,9 +93,9 @@
         "api-dylux": "^1.6.3",
         "@vitalets/google-translate-api": "^9.2.0",
         "openai": "^3.3.0",
-        "ytdl-core": "^4.11.5",
         "aptoide-scraper": "^1.0.1",
-        "yargs": "^17.6.0",
+        "yargs": "^17.6.0" 
+        "ytdl-core": "^4.11.5",
     },
     "optionalDependencies": {
          "wa-sticker-formatter": "^4.3.2",
