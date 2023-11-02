@@ -10,12 +10,12 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['628989513496', 'NANS OFFC', true],
-  ['628989513496']
+  ['212605784394', 'BOBIZ', true],
+  ['212605784394']
 ] // Nomor Owner
 
-global.mods = ['6285174306183'] 
-global.prems = ['6285174306183', '6285880029379']
+global.mods = ['212605784394'] 
+global.prems = ['212605784394', '212605784394']
 
 // apikey
 global.lann = 'apikeylu'
@@ -35,29 +35,29 @@ global.APIs = { // API Prefix
 }
 
 // Watermark
-global.nama = 'Bang FD' // nama owner
-global.nomor = '628989513496' // nomor owner
-global.nans = 'NANS OFFC' // nama bot 
+global.nama = 'MY-PROF-BOT' // nama owner
+global.nomor = '212605784394' // nomor owner
+global.nans = 'MY-PROF-BOT' // nama bot 
 global.thumb = 'https://i.ibb.co/m9YqsDr/neromdv3-2.jpg' // thumbnail bot ( foto menu )
 global.dygp = 'https://chat.whatsapp.com' // link group yang ada di menu
 
 // Sticker wm
-global.packname = 'NERO MD┃ᴮᴼᵀ' 
-global.author = '@nansoffc' 
-global.fgig = 'https://www.instagram.com/nansoffc' // bebas tapi jangan kosong 
+global.packname = 'MY-PROF-BOT' 
+global.author = '@noureddine_ouafy' 
+global.fgig = 'https://www.instagram.com/noureddine_ouafy' // bebas tapi jangan kosong 
 global.fgsc = 'https://github.com/nanzone' // bebas tapi jangan kosong
 global.fgyt = 'https://nansoffc.my.id/' // bebas tapi jangan kosong
 global.fgpyp = 'https://nansoffc.my.id' // bebas tapi jangan kosong
 global.fglog = 'https://i.ibb.co/kXw4XhL/nansoffc-logo.jpg'
 
 // Other
-global.dana = '6285880029379'
+global.dana = '212605784394'
 global.qris = 'https://i.ibb.co/xGC5Y7j/20230712-173348.jpg'
 global.web = 'https://nansoffc.my.id'
 global.email = 'nansoffc@gmail.com'
-global.lastm = 'ꜱɪᴍᴘʟᴇ ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙʏ ɴᴀɴꜱ ᴏꜰꜰᴄ'
+global.lastm = 'MY-PROF-BOT BY NOUREDDINE OUAFY'
 
-global.wait = 'Tunggu sebentar....'
+global.wait = 'جاري تلبية طلبكم تابع صاحب البوت في حسابه....\ninstagram.com/noureddine_ouafy'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
